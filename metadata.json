@@ -1,0 +1,6 @@
+{
+  "name": "Renta Quest 2026 - Diagnóstico Tributario DIAN",
+  "description": "Juego interactivo y gamificado para determinar tu obligación de declarar renta en Colombia (Año Gravable 2025 presentado en 2026), fecha de vencimiento y generación de inventario tributario en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
